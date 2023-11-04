@@ -1,15 +1,15 @@
 
 
 ### Hi there 👋, I'm Maimun Islam
-####  Web Developer & Wordpress expert
+####  Font-End Developer & Wordpress expert
  
 
-Thanks for visiting my profile! First, take my sincere respect. I m an expert in WordPress theme customization & WordPress problem-solving. Again I,m an expert in below web languages HTML, CSS, JAVASCRIPT, JQUERY, and BOOTSTRAP, PHP #I'm not limited To an expert in WordPress I'm also an expert on Facebook marketing Please, contact me before placing the order.
+Thanks for visiting my profile! First, take my sincere respect. I'm an expert in WordPress theme customization & WordPress problem-solving. Again I'm an expert in below web languages HTML, CSS, JAVASCRIPT, REACT, and BOOTSTRAP, MongoDB #I'm not limited To an expert in WordPress I'm also an expert on Facebook marketing Please, contact me before placing the order.
 
-Skills: REACT / JS / HTML / CSS/ PHP
+Skills: REACT / JS / HTML / CSS/ MongoDB
 
 - 🔭 I’m currently working on Youtube  
-- 🌱 I’m currently learning PHP 
+- 🌱 I’m currently learning MongoDB
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with WordPress learners 
 - 💬 Ask me about Web Development & WordPress 
