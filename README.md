@@ -34,7 +34,7 @@ Skills:
 ![Profile views](https://gpvc.arturio.dev/Maimun54)  -->
 
 
-
+https://api.githubtrends.io/user/svg/Maimun54/repos?time_range=one_year&theme=classic
 
 
 
