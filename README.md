@@ -25,6 +25,12 @@ Skills:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maimun54)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maimun54&theme=discord_old_blurple) -->
+
+![Top Langs](https://api.githubtrends.io/user/svg/Maimun54/repos?time_range=one_year&theme=classic)
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maimun54&show_icons=true)  
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Maimun54)  
@@ -34,7 +40,7 @@ Skills:
 ![Profile views](https://gpvc.arturio.dev/Maimun54)  -->
 
 
-
+https://api.githubtrends.io/user/svg/Maimun54/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic
 
 
 
