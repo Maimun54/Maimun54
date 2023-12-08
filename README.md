@@ -9,7 +9,7 @@ Thanks for visiting my profile! First, take my sincere respect. I'm an expert in
 <!-- Skills:  HTML/ CSS/ REACT / JS /Tailwind /MongoDB -->
 Skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,firebase,mongodb)](https://skillicons.dev)
 
 - 🔭 I’m currently working on Fiverr and Upwork 
 - 🌱 I’m currently learning MongoDB
