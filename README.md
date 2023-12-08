@@ -6,9 +6,12 @@
 
 Thanks for visiting my profile! First, take my sincere respect. I'm an expert in WordPress theme customization & WordPress problem-solving. Again I'm an expert in below web languages HTML, CSS, JAVASCRIPT, REACT, and BOOTSTRAP, MongoDB #I'm not limited To a Font-End Developer in WordPress expert I'm also an expert on Facebook marketing Please, contact me before placing the order.
 
-Skills: REACT / JS / HTML / CSS/ MongoDB
+<!-- Skills:  HTML/ CSS/ REACT / JS /Tailwind /MongoDB -->
+Skills: 
 
-- 🔭 I’m currently working on Youtube  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,mongodb)](https://skillicons.dev)
+
+- 🔭 I’m currently working on Fiverr and Upwork 
 - 🌱 I’m currently learning MongoDB
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with WordPress learners 
@@ -24,9 +27,15 @@ Skills: REACT / JS / HTML / CSS/ MongoDB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maimun54&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Maimun54)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Maimun54)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Maimun54)  
 
-![Profile views](https://gpvc.arturio.dev/Maimun54)  
+![Profile views](https://gpvc.arturio.dev/Maimun54)  -->
+
+
+
+
+
+
 
