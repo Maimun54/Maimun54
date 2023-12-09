@@ -14,7 +14,7 @@ Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,firebase,mongodb)](https://skillicons.dev)
 
-- 🔭 I’m currently working on Fiverr and Upwork 
+- 🔭 I’m currently working on Fiverr and Upwork as a Freelancer
 - 🌱 I’m currently learning MongoDB
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with WordPress learners 
