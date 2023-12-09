@@ -1,10 +1,13 @@
 ![Top Langs](https://media.licdn.com/dms/image/C5616AQGrRofPH9lKyA/profile-displaybackgroundimage-shrink_350_1400/0/1608308110369?e=1707350400&v=beta&t=IS8Yz-1lG9YUpGtpwXpB6vqagbhH1bdo75hb976v-Ew)
 
+<!-- ![Top Langs](https://raw.githubusercontent.com/Maimun54/Maimun54/47e81c952d03b4a0801e1697252207b03c72ba2a/banner.svg) -->
+
 ### Hi there 👋, I'm Maimun Islam
-####  Font-End Developer & Wordpress expert
+
+####  Font-End Developer
  
 
-Thanks for visiting my profile! First, take my sincere respect. I'm an expert in WordPress theme customization & WordPress problem-solving. Again I'm an expert in below web languages HTML, CSS, JAVASCRIPT, REACT, and BOOTSTRAP, MongoDB #I'm not limited To a Font-End Developer in WordPress expert I'm also an expert on Facebook marketing Please, contact me before placing the order.
+I am a Web Application Developer with expertise in JavaScript, React, and Tailwind CSS. My experience includes developing web applications using HTML5, CSS3, and JavaScript (ES6). I have a strong background in React for building user-friendly interfaces and utilize Tailwind CSS for efficient styling. Additionally, I have proficiency in server-side technologies such as Node and Express, along with database management using MongoDB. I am dedicated, hardworking, and passionate about creating high-quality applications. My goal is to join a team where I can leverage my skills to contribute to the development of impactful and user-centric applications
 
 <!-- Skills:  HTML/ CSS/ REACT / JS /Tailwind /MongoDB -->
 Skills: 
@@ -42,7 +45,7 @@ Skills:
 
 
 
-
+ 
 
 
 
