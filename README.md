@@ -1,4 +1,4 @@
-![Top Langs](https://media.licdn.com/dms/image/C5616AQGrRofPH9lKyA/profile-displaybackgroundimage-shrink_350_1400/0/1608308110369?e=1707350400&v=beta&t=IS8Yz-1lG9YUpGtpwXpB6vqagbhH1bdo75hb976v-Ew)
+![Top Langs](https://raw.githubusercontent.com/Maimun54/Maimun54/main/Github.png)
 
 <!-- ![Top Langs](https://raw.githubusercontent.com/Maimun54/Maimun54/47e81c952d03b4a0801e1697252207b03c72ba2a/banner.svg) -->
 
