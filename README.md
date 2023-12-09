@@ -9,7 +9,7 @@
 
 I am a Web Application Developer with expertise in JavaScript, React, and Tailwind CSS. My experience includes developing web applications using HTML5, CSS3, and JavaScript (ES6). I have a strong background in React for building user-friendly interfaces and utilize Tailwind CSS for efficient styling. Additionally, I have proficiency in server-side technologies such as Node and Express, along with database management using MongoDB. I am dedicated, hardworking, and passionate about creating high-quality applications. My goal is to join a team where I can leverage my skills to contribute to the development of impactful and user-centric applications
 
-<!-- Skills:  HTML/ CSS/ REACT / JS /Tailwind /MongoDB -->
+Skills:  HTML/ CSS/ REACT / JS /Tailwind /MongoDB
 Skills: 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,firebase,mongodb)](https://skillicons.dev)
