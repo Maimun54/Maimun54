@@ -1,10 +1,10 @@
-![Top Langs](https://raw.githubusercontent.com/Maimun54/Maimun54/main/Github.png)
+![Top Langs](https://i.ibb.co/pPGLyWp/Blue-Pink-Gradient-Fashion-Banner.png)
 
 <!-- ![Top Langs](https://raw.githubusercontent.com/Maimun54/Maimun54/47e81c952d03b4a0801e1697252207b03c72ba2a/banner.svg) -->
 
 ### Hi there 👋, I'm Maimun Islam
 
-####  Font-End Developer
+####  Front-End Developer
  
 ### 👋About me
 I am a Web Application Developer with expertise in JavaScript, React, and Tailwind CSS. My experience includes developing web applications using HTML5, CSS3, and JavaScript (ES6). I have a strong background in React for building user-friendly interfaces and utilize Tailwind CSS for efficient styling. Additionally, I have proficiency in server-side technologies such as Node and Express, along with database management using MongoDB. I am dedicated, hardworking, and passionate about creating high-quality applications. My goal is to join a team where I can leverage my skills to contribute to the development of impactful and user-centric applications
