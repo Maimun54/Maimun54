@@ -1,4 +1,4 @@
-![Top Langs](https://i.ibb.co/pPGLyWp/Blue-Pink-Gradient-Fashion-Banner.png)
+![Banner](https://i.ibb.co/NnBCw11/Github-banner.png)
 
 <!-- ![Top Langs](https://raw.githubusercontent.com/Maimun54/Maimun54/47e81c952d03b4a0801e1697252207b03c72ba2a/banner.svg) -->
 
